@@ -6,12 +6,6 @@
 //___COPYRIGHT___
 //
 
-protocol ___FILEBASENAMEASIDENTIFIER___InteractorInput
-{
-
-}
-
-protocol ___FILEBASENAMEASIDENTIFIER___InteractorOutput
-{
+protocol ___FILEBASENAMEASIDENTIFIER___ViewInterface: class {
 
 }

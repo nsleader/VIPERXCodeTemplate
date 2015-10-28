@@ -8,8 +8,7 @@
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___DataManager
-{
+class ___FILEBASENAMEASIDENTIFIER___DataManager {
     // MARK: - Property
     
     // MARK: - Life cycle

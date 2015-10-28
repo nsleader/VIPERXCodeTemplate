@@ -8,12 +8,10 @@
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___Interactor:
-    ___FILEBASENAMEASIDENTIFIER___InteractorInput
-{
+class ___FILEBASENAMEASIDENTIFIER___Interactor: ___FILEBASENAMEASIDENTIFIER___InteractorInput {
 	// MARK: - Property
     
-    var output: ___FILEBASENAMEASIDENTIFIER___InteractorOutput? = nil
+    weak var output: ___FILEBASENAMEASIDENTIFIER___InteractorOutput?
     lazy private var dataManager: ___FILEBASENAMEASIDENTIFIER___DataManager = ___FILEBASENAMEASIDENTIFIER___DataManager()
 
     // MARK: - ___FILEBASENAMEASIDENTIFIER___ interactor input interface
