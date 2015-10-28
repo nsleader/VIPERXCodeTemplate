@@ -22,12 +22,10 @@ _Note: your class name will be appended with [architecture](#architecture) names
 - `ViewInterface`
 - `Wireframe`
 
-<!-- # TODO
+ # TODO
 
-- Add objective-c template and option to let the developer choose between objective-c or Swift
-- Add option for View Controller type
-- Improve Swift code
- -->
+- Add example
+ 
 # Sources
 
 - [Introduction to VIPER by Jeff Gilbert](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
@@ -36,5 +34,5 @@ _Note: your class name will be appended with [architecture](#architecture) names
 
 # Contact
 
-[Romain ASNAR](https://github.com/romsi) ([@romsi94](https://twitter.com/romsi94)) _Author_
-[Ivan Chirkov](https://github.com/nsleader) (rumandevelop@gmail.com) _Editor_
+- [Romain ASNAR](https://github.com/romsi) ([@romsi94](https://twitter.com/romsi94)) _Author_
+- [Ivan Chirkov](https://github.com/nsleader) (rumandevelop@gmail.com) _Editor_
